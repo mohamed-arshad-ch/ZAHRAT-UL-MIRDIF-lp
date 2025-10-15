@@ -70,7 +70,10 @@ export default function Footer() {
           {/* Column 3: Social Media */}
           <div>
             <h3 className="text-lg font-semibold text-gray-800 mb-4">Connect With Us</h3>
-            <p className="text-gray-600 mb-4">Follow us on social media for updates, tips, and business insights.</p>
+            <p className="text-gray-600 mb-4">
+              Follow us on social media for updates, tips, and business insights. Contact us at +971 54 341 2392 or +971
+              52 592 0744.
+            </p>
             <div className="flex space-x-4">
               <Link href="#" className="text-[#2363eb] hover:text-[#1b50c4] transition-colors">
                 <Facebook className="h-5 w-5" strokeWidth={1.5} />
@@ -114,11 +117,10 @@ export default function Footer() {
         <div className="border-t border-gray-200 mt-10 pt-6 text-center">
           <p className="text-gray-600">
             &copy; {new Date().getFullYear()} ZAHRAT UL MIRDIF DOCUMENTS CLEARING SERVICES CO.L.L.C. All rights
-            reserved.
+            reserved. Address: First Motors - Danube Building, 1st Floor, Office No. 15/3, Dubai, United Arab Emirates
           </p>
         </div>
       </div>
     </footer>
   )
 }
-

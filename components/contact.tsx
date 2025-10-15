@@ -232,8 +232,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800 text-lg mb-2">Phone</h4>
-                  <p className="text-gray-600">+971 4 123 4567</p>
-                  <p className="text-gray-600">+971 50 987 6543</p>
+                  <p className="text-gray-600">+971 54 341 2392</p>
+                  <p className="text-gray-600">+971 52 592 0744</p>
                 </div>
               </div>
             </div>
@@ -258,8 +258,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-800 text-lg mb-2">Office</h4>
-                  <p className="text-gray-600">Al Mirdif, Dubai, United Arab Emirates</p>
-                  <p className="text-gray-600">P.O. Box 12345</p>
+                  <p className="text-gray-600">First Motors - Danube Building, 1st Floor</p>
+                  <p className="text-gray-600">Office No. 15/3, Dubai, United Arab Emirates</p>
                 </div>
               </div>
             </div>
@@ -318,4 +318,3 @@ export default function Contact() {
     </section>
   )
 }
-
